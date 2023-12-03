@@ -1,5 +1,35 @@
 # Silus-Gaming-World
 
+In the realm of screens, where pixels ignite,
+There's a young gamer, Silus, pure delight.
+Thirteen years young, with dreams that swirl,
+Meet Silus Gaming World, our digital pearl.
+
+With headset donned and a keyboard's tap,
+He dives into realms with a gamer's map.
+In the virtual expanse where fantasies twirl,
+Silus reigns supreme, our gaming world.
+
+Through Minecraft realms and Fortnite skies,
+Silus crafts tales, where excitement lies.
+A YouTuber's journey, with banners unfurled,
+Silus Gaming World, our virtual world.
+
+In the language of pixels, stories unfold,
+Silus narrates, his voice pure gold.
+A grandson, a YouTuber, his charisma swirled,
+In the vibrant tapestry of Silus Gaming World.
+
+From Let's Plays to tutorials, he guides the way,
+Thirteen and thriving, in the digital array.
+With every click, his banner's twirled,
+Silus, our captain in the gaming world.
+
+May subscribers flock, like stars in the night,
+As Silus Gaming World takes its flight.
+Thirteen and fearless, a gamer unfurled,
+In the YouTube cosmos, Silus Gaming World.
+
 ### YouTube videos and commentary on Silus Gaming World
 [Overlays from mkbres](https://mkbres.github.io/overlays/index.html)<br>
 [Overlays bottom](https://mkbres.github.io/overlays/bottom/overlays/mk-bottom01.html)<br>
