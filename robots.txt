@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: bitches-and-gripes.md, crypto.md
+Disallow: *
 
 Sitemap: https://github.com/bbauska/silusblog, https://silusblog.bauska.org
