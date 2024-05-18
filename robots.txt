@@ -1,3 +1,3 @@
 User-Agent: *
-Disallow: more poems about Silus Gaming World.txt
+Disallow: "more poems about Silus Gaming World.txt", "poems about Silus Gaming World.txt"
 Sitemap: https://github.com/bbauska/silusblog, https://silusblog.bauska.org
