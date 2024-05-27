@@ -1,4 +1,4 @@
-# Silus-Gaming-World
+# Silus-Gaming-World (silusblog.bauska.org)
 
 ```
 In the realm of screens, where pixels ignite,
