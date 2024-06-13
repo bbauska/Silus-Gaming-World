@@ -1,5 +1,5 @@
 # Silus-Gaming-World (silusblog.bauska.org)
-
+&#0015c;
 ```
 In the realm of screens, where pixels ignite,
 There's a young gamer, Silus, pure delight.
