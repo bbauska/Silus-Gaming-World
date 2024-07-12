@@ -1,8 +1,12 @@
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ include.id }}" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0"> 
+    <title>Adding Youtube Video</title> 
+    <title>YouTube video embed without controls</title> 
+</head>
 <style>
 .embed-container {
   position: relative;
@@ -21,44 +25,27 @@
   height: 100%;
 }
 </style>
+<body>
 
+    <iframe width="440" height="372" 
+            src="https://www.youtube.com/embed/il_t1WVLNxk/?controls=0"> 
+    </iframe> 
 
-
-<!DOCTYPE html> 
-<html lang="en"> 
-  
-<head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" 
-          content="width=device-width, initial-scale=1.0"> 
-    <title>Adding Youtube Video</title> 
-</head> 
-  
-<body> 
-  
+ 
     <iframe height="480" width="500" 
             src="https://www.youtube.com/embed/il_t1WVLNxk"> 
       </iframe> 
 
-<!DOCTYPE html> 
-<html lang="en"> 
-  
-<head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" 
-          content="width=device-width, initial-scale=1.0"> 
-    <title>YouTube video embed using object tag</title> 
-</head> 
-  
-<body> 
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://www.youtube.com/embed/{{ include.id }}" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
   
     <object width="480" height="500" 
             data="https://www.youtube.com/embed/il_t1WVLNxk"> 
     </object> 
-  
-</body> 
-  
-</html>
+ 
 </body> 
   
 </html>
