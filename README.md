@@ -1,5 +1,8 @@
 # Silus-Gaming-World (silusblog.bauska.org)
 
+<details>
+  <summary>Poem: Silus Gaming World</summary>
+  
 ```
 In the realm of screens, where pixels ignite,
 There's a young gamer, Silus, pure delight.
@@ -32,36 +35,45 @@ Thirteen and fearless, a gamer unfurled,
 In the YouTube cosmos, Silus Gaming World.
 ```
 
-### YouTube videos and commentary on Silus Gaming World
+</details>
+
+<h3>YouTube videos and commentary on Silus Gaming World</h3>
+
 [Overlays from mkbres](https://mkbres.github.io/overlays/index.html)<br>
 [Overlays bottom](https://mkbres.github.io/overlays/bottom/overlays/mk-bottom01.html)<br>
 [Overlays animated](https://mkbres.github.io/overlays/animated/overlays/mk-gamer-369/index.html)
 
-### Overlay:
-#### For downloaded version
-  1.	Open OBS, click the + button/icon from Sources manager window
-  2.	Select the Browser option from the available options panel
-  3.	Select Local file checkbox , browse button and select the html file provided
-  4.	Set up the width and height of the overlay (it depends on what the overlay is showing)
-  5.	Select the Refresh checkbox
-  6.	Tweak the position of the installed overlay by dragging the red lines or corners
-  7.	To trigger overlay visibility use the eye icon to show or hide
+<h3>Overlay:</h3>
+<h4>For downloaded version</h4>
 
-### Simplified install:
-Simply drag and drop the html file into Preview window inside OBS
-  1. Open OBS, click the + button/icon from Sources manager window.
-  2. Select the Browser option from the available options panel.
-  3. Go to online (hosted) version showing this overlay and copy the full URL path.
-  4. Paste the URL in related field on OBS and click Apply.
-  5. To trigger overlay visibility use the eye icon to show or hide.
+<ol>
+  <li>Open OBS, click the + button/icon from Sources manager window</li>
+  <li>Select the Browser option from the available options panel</li>
+  <li>Select Local file checkbox , browse button and select the html file provided</li>
+  <li>Set up the width and height of the overlay (it depends on what the overlay is showing)</li>
+  <li>Select the Refresh checkbox</li>
+  <li>Tweak the position of the installed overlay by dragging the red lines or corners</li>
+  <li>To trigger overlay visibility use the eye icon to show or hide</li>
+</ol>
 
-### How to use
+<h3>Simplified install:</h3>
+<h4>Simply drag and drop the html file into Preview window inside OBS</h3>
+<ol>
+  <li>Open OBS, click the + button/icon from Sources manager window.</li>
+  <li>Select the Browser option from the available options panel.</li>
+  <li>Go to online (hosted) version showing this overlay and copy the full URL path.</li>
+  <li>Paste the URL in related field on OBS and click Apply.</li>
+  <li>To trigger overlay visibility use the eye icon to show or hide.</li>
+</ol>
+
+<h3>How to use</h3>
 Almost all text-based elements are editable via Interact OBS functionality.<br><br>
 In Interact window click and type to interact with on-window elements.<br><br>
 All editing is done in real time and it will render in live stream<br><br>
 Upon refresh of the browser source all editing will revert back to default.<br><br>
 This overlay is not automatically triggered by external event or action.<br><br>
-Also compatible with SplitCam Software but without Interact functionality, currently not supported by SplitCam<br>
+Also compatible with SplitCam Software but without Interact functionality, currently 
+not supported by SplitCam<br>
 
 Links:
 Go for image editing using PSD source file or simply use the graphics provided with this download.
@@ -73,43 +85,36 @@ Go for image editing using PSD source file or simply use the graphics provided w
 
 [obs overlays by mk-gamer](https://mkbres.github.io/overlays/animated/overlays/mk-gamer-369/overlay/obs-overlay.html#social)
 
-MS pathetic attempt;
-https://clipchamp.com/watch/wp4d5j1bedv
-Silus Squad Members Live Subscriber Count;
-https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS
+<a href="https://clipchamp.com/watch/wp4d5j1bedv">MS pathetic attempt</a>
 
-Silus Gaming World;
-https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS
+<a href="https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS">Silus Squad Members Live Subscriber Count;</a>
 
-Silus Spider;
-https://studio.youtube.com/channel/UCXJjir87NNCq7D890nQdTvw/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCXJjir87NNCq7D890nQdTvw&time_period=4_weeks&explore_type=SUBSCRIBERS
-Silus Spider versus Silus Gaming World
-https://livecounts.io/compare/youtube-live-subscriber-counter/UCXJjir87NNCq7D890nQdTvw/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ
+<a href="https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS">Silus Gaming World;</a>
 
-Northern lights (8:40)
-https://youtu.be/cA_ZJtb9s-4
-Live NASA ISS:
-https://youtu.be/86YLFOog4GM
+<a href="https://studio.youtube.com/channel/UCXJjir87NNCq7D890nQdTvw/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCXJjir87NNCq7D890nQdTvw&time_period=4_weeks&explore_type=SUBSCRIBERS">Silus Spider;
+
+<a href="https://livecounts.io/compare/youtube-live-subscriber-counter/UCXJjir87NNCq7D890nQdTvw/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ">Silus Spider versus Silus Gaming World</a>
+
+<a href="https://youtu.be/cA_ZJtb9s-4">Northern lights (8:40)</a>
+
+<a href="https://youtu.be/86YLFOog4GM">Live NASA ISS:</a>
  
+<a href="https://youtu.be/XJjir87NNCq7D890nQdTvw">Silus Spider user id</a>
 
-Silus Spider user id
-XJjir87NNCq7D890nQdTvw
-Silus Spider channel id
+<a href="https://youtu.be/UCXJjir87NNCq7D890nQdTvw">Silus Spider channel id</a>
 UCXJjir87NNCq7D890nQdTvw
 Silus Gaming World user id
 g5odinpwPnV8BpnhlugrKQ
 Silus Gaming World channel id
 UCg5odinpwPnV8BpnhlugrKQ
 
-Live Sub Count of Silus Gaming World
-https://livecounts.io/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ
+<a href="https://livecounts.io/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ">Live Sub Count of Silus Gaming World</a>
 
 Live Sub Count of Silus Spider
 https://livecounts.io/youtube-live-subscriber-counter/UCXJjir87NNCq7D890nQdTvw
 
 Live Video Views; march 12 Silus Lance – last 5,075
 https://livecounts.io/youtube-live-view-counter/q6B-5OZZACE
-
 
 Live Video Views; - chicken pox video - last 15,334
 https://youtube.com/shorts/Vy6lTs0kDjs
@@ -118,10 +123,7 @@ https://livecounts.io/compare/youtube-live-subscriber-counter/UCXJjir87NNCq7D890
 
  
 
-Silus Gaming World
-
-
-
+<h2>Silus Gaming World</h2>
  
 https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-lifetime/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS
 Channel URL
@@ -130,10 +132,15 @@ https://www.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ
 
  
 NoBS – OBS Documentation in bbauska.github.io
+
 Silus Spider vs. Silus Gamer (renamed)
+
 garagedoor101 with siluslance@gmail.com
+
 misskay615 with silusultra@gmail.com
+
 Views and Subscribers – live number with Aurora Borealis as a backdrop.
+
 Hint at new game coming out in 2030 (?).
 
 https://video.ibm.com/recorded/132650913
@@ -148,34 +155,43 @@ https://livecounts.org/live-view-count/
 https://livecounts.org/live-view-count /X3cXY7tBdn4/edit
 <iframe height="100px" width="350px" frameborder="0" src="https://livecounts.org/live-view-count/" allowfullscreen></iframe>
 
-live sub count:
-https://livecounts.org/live-sub-count/
-live sub count: Silus Gaming World
-https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD
+<h2>live sub count:</h2>
+
+<h3><a href="https://livecounts.org/live-sub-count/">live sub count: Silus Gaming World</a></h3>
+
+<h3><a href="https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD">Silus Gaming World</a></h3>
+
+<h3><a href="https://livecounts.org/live-sub-count/Silus-Gaming">iframe</a></h3>
+
 https://livecounts.org/live-sub-count/Silus-Gaming
 <iframe height="100px" width="350px" frameborder="0" src="https://livecounts.org/live-sub-count/Silus-Gaming" allowfullscreen></iframe>
 
-Video by <a href="https://pixabay.com/users/streamrender-8853918/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=25102">Silus Gaming World or Silus Gamer</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=25102">Pixabay</a>
-https://video.ibm.com/channel/iss-hdev-payload/pop-out
-Space – 1 hour video – no sound – royalty free – 1 HOUR – play loop
-https://youtu.be/3BBJQmnG_fQ
-WITH MUSIC – NASA  2:18
-https://youtu.be/Cgeyc876f7Q
-With good sound: (sweet dreams are made of these)
-https://youtu.be/bGXtpeuhxGQ
-SPACE SOUNDS;
-https://www.nasa.gov/specials/sounds/ring-miri-Aug-%203.wav
+<h3><a href="https://pixabay.com/users/streamrender-8853918/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=25102">Silus Gaming World or Silus Gamer</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=25102">Video by Pixabay</a> 
+  and <a href="https://video.ibm.com/channel/iss-hdev-payload/pop-out">this one too</a></h3>
+
+<h3><a href="https://youtu.be/3BBJQmnG_fQ">Space – 1 hour video – no sound – royalty free – 1 HOUR – play loop</a></h3>
+
+<h3><a href="https://youtu.be/Cgeyc876f7Q">WITH MUSIC – NASA  2:18</a></h3>
+
+<h3><a href="https://youtu.be/bGXtpeuhxGQ">With good sound: (sweet dreams are made of these)</a></h3>
+
+<h3><a href="https://www.nasa.gov/specials/sounds/ring-miri-Aug-%203.wav">Space Sounds</h3>
+
 🍀 = &#12780; four leaf clover.<br>
 ‐ = &#45; 			- hyphen/dash equals ampersand, pound, forty-five, semicolon.<br>
 >=&gt; &#62;		> equals ampersand, pound, sixty-two, semicolon or &gt;<br>
 <=&lt; &#60;		<br>
 ==&equals; &#61; 		= is ampersand, pound, sixty-one, semicolon.<br>
+<br>
 🐈= &#12800; ampersand, pound, one, two, eight, zero, zero, semicolon.<br>
 🐱 &#12804; cat face equals ampersand, pound, one, two, eight, zero, four, semicolon.<br>
 😹 &#12856;<br>
 😼 &#12857;<br>
 😸&#128576;<br>
-🐈‍⬛ black cat. &#128008; &#11035; &#8205.<br>
+🐈‍⬛ black cat. <br>
+&#128008; <br>
+&#11035; <br>
+&#8205;<br>
 😼 Cat Face with Wry Smile<br>
 😹 Cat Face with Tears of Joy<br>
 🙀 Weary Cat Face<br>
@@ -206,14 +222,14 @@ Have you ever wanted to put ANY Social Counter on your own website? We've made i
 Simply copy and paste below's code wherever you want to place it on your site!
 <iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ style="border: 0; width:300px; height:80px;"></iframe>
 
-[Live Counts](https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ)
+<h3>
+<a href="https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ">Live Counts</a>
 
-[Live Views](https://livecounts.org/live-view-count/)
+<a href="https://livecounts.org/live-view-count/">Live Views</a>
 
-[Light Leaks; (1:10:00)](https://youtu.be/cVO6K8Vk6KI)
+<a href="https://youtu.be/cVO6K8Vk6KI">Light Leaks; (1:10:00)</a>
 
-[Mood lights: with radial gradient colors;](https://youtu.be/BFhp7Y0iLSA)
+<a href="https://youtu.be/BFhp7Y0iLSA">Mood lights: with radial gradient colors;</a>
 
-### Silus Gaming World see live count
-https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS
-
+<a href="https://studio.youtube.com/channel/UCg5odinpwPnV8BpnhlugrKQ/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCg5odinpwPnV8BpnhlugrKQ&time_period=4_weeks&explore_type=SUBSCRIBERS">Silus Gaming World see live count</a>
+</h3>
