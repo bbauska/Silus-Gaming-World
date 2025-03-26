@@ -135,10 +135,6 @@ NoBS – OBS Documentation in bbauska.github.io
 
 Silus Spider vs. Silus Gamer (renamed)
 
-garagedoor101 with siluslance@gmail.com
-
-misskay615 with silusultra@gmail.com
-
 Views and Subscribers – live number with Aurora Borealis as a backdrop.
 
 Hint at new game coming out in 2030 (?).
