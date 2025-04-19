@@ -78,10 +78,10 @@ not supported by SplitCam<br>
 Links:
 Go for image editing using PSD source file or simply use the graphics provided with this download.
 
-  •	Gamer 369
-  •	bonus / off screen
-  •	YouTube video
-  •	general install OBS overlays
+  •    Gamer 369
+  •    bonus / off screen
+  •    YouTube video
+  •    general install OBS overlays
 
 [obs overlays by mk-gamer](https://mkbres.github.io/overlays/animated/overlays/mk-gamer-369/overlay/obs-overlay.html#social)
 
@@ -174,10 +174,12 @@ https://livecounts.org/live-sub-count/Silus-Gaming
 <h3><a href="https://www.nasa.gov/specials/sounds/ring-miri-Aug-%203.wav">Space Sounds</h3>
 
 🍀 = &#12780; four leaf clover.<br>
-‐ = &#45; 			- hyphen/dash equals ampersand, pound, forty-five, semicolon.<br>
->=&gt; &#62;		> equals ampersand, pound, sixty-two, semicolon or &gt;<br>
-<=&lt; &#60;		<br>
-==&equals; &#61; 		= is ampersand, pound, sixty-one, semicolon.<br>
+<pre>
+‐ = \&#45;  - hyphen/dash equals ampersand, pound, forty-five, semicolon.<br>
+>=&gt; &#62;  > equals ampersand, pound, sixty-two, semicolon or &gt;<br>
+<=&lt; &#60; <br>
+==&equals; &#61;         = is ampersand, pound, sixty-one, semicolon.<br>
+</pre>
 <br>
 🐈= &#12800; ampersand, pound, one, two, eight, zero, zero, semicolon.<br>
 🐱 &#12804; cat face equals ampersand, pound, one, two, eight, zero, four, semicolon.<br>
@@ -199,28 +201,29 @@ https://livecounts.org/live-sub-count/Silus-Gaming
 😽 Kissing Cat Face<br>
 
 ### Sub count: Silus Gaming World
-https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD
+<a href="https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD">Live Counts (Silus Gaming World</a>
 
 ### Sub count: Silus Spider
-https://livecounts.org/live-sub-count/SILUS-SPIDER
+<a href="https://livecounts.org/live-sub-count/SILUS-SPIDER">Live Counts (Silus Spider)</a>
 
 ### View count: Silus Gaming World
-https://i.ytimg.com/vi/q6B-5OZZACE/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAHnyk7lEk3LcHxB_jHLjGT47GVqQ
-https://livecounts.org/live-view-count/X3cXY7tBdn4
-View count: Silus Spider
-https://livecounts.org/live-view-count/GU7FeFjhNCo
+<a href="https://i.ytimg.com/vi/q6B-5OZZACE/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAHnyk7lEk3LcHxB_jHLjGT47GVqQ">View Count (Silus Gaming World)</a>
+<a href="https://livecounts.org/live-view-count/X3cXY7tBdn4">Live View Count</a>
+
+<a href="https://livecounts.org/live-view-count/GU7FeFjhNCo">Live Count (Silus Spider)</a>
 
 ### Silus Spider vs Silus Gaming World (Compare subscriber count) URL:
-https://livecounts.io/compare/youtube-live-subscriber-counter/UCXJjir87NNCq7D890nQdTvw/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ
+<a href="https://livecounts.io/compare/youtube-live-subscriber-counter/UCXJjir87NNCq7D890nQdTvw/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ">Silus v Silus</a>
 
 ### Embed SILUS GAMING WORLD's Count on Your Website!
 Have you ever wanted to put ANY Social Counter on your own website? We've made it possible with Embed feature!
 Simply copy and paste below's code wherever you want to place it on your site!
-<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ style="border: 0; width:300px; height:80px;"></iframe>
+
+<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ style="border: 0; width:300px; height:80px;"></iframe>0
 
 <h3>
 <a href="https://livecounts.io/embed/youtube-live-subscriber-counter/UCg5odinpwPnV8BpnhlugrKQ">Live Counts</a>
-
+<br>
 <a href="https://livecounts.org/live-view-count/">Live Views</a>
 
 <a href="https://youtu.be/cVO6K8Vk6KI">Light Leaks; (1:10:00)</a>
